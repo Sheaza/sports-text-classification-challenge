@@ -2,7 +2,13 @@
 Sport Texts Classification Challenge - Ball
 ======================
 
-Guess whether the sport is connected to the ball for a Polish article. Possible disciplines: ball, no-ball. Evaluation metrics: Accuracy, LikelihoodHashed.
+Guess whether the sport is connected to the ball for a Polish article. Evaluation metrics: Accuracy, Likelihood.
+
+Classes
+-------
+
+* `1` — ball
+* `0` — no-ball
 
 Directory structure
 -------------------
